@@ -1,7 +1,6 @@
 # TaskManagement1
 
 ## List of technologies used.
-<p>使用している技術一覧</p>
 <el-row>
     <p style="display: inline">
         <!-- フロントエンド -->
