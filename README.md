@@ -1,14 +1,16 @@
 # TaskManagement1
 
 ## List of technologies used.
-<p>フロントエンド</p>
-<p style="display: inline">
-    <!-- フロントエンド -->
-    <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
-    <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
-    <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
-</p>
+<el-row>
+    <p>【フロントエンド】</p>
+    <p style="display: inline">
+        <!-- フロントエンド -->
+        <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+        <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+        <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
+        <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+    </p>
+</el-row>
 <p style="display: inline">
     <!-- バックエンド -->
     <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
