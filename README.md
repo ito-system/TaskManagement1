@@ -46,6 +46,7 @@
 </el-row>
 
 ## Advance preparation.
+<p>環境構築に入る前の事前準備</p>
 <p>
     ◼️READMEの記載<br>
     ・<a href="https://qiita.com/shun198/items/c983c713452c041ef787" target="_blank">使用技術一覧のデザインテンプレート</a>
