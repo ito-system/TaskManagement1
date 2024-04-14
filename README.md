@@ -3,6 +3,7 @@
 ## List of technologies used.
 <p style="display: inline">
     <!-- フロントエンド -->
+    <p>フロントエンド</p>
     <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
     <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
