@@ -48,5 +48,5 @@
 </p>
 <p>
     ◼️プルリクエストのテンプレート化<br>
-    <a href="https://note.com/cograph_data/n/n6dfed8a37bc1">プルリクエストのテンプレート化</a>
+    ・<a href="https://note.com/cograph_data/n/n6dfed8a37bc1">プルリクエストのテンプレート化</a>
 </p>
