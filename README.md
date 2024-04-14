@@ -1,5 +1,9 @@
 # TaskManagement1
 <p>タスク管理アプリケーション</p>
+<p>
+    ◼️機能一覧
+    ・
+</p>
 
 ## List of technologies used.
 <el-row>
