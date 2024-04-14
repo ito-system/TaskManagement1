@@ -40,6 +40,10 @@
         <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
     </p>
 </el-row>
+<el-row>
+    <p>【プロジェクト管理】</p>
+    <p>Jooto</p>
+</el-row>
 
 ## Advance preparation.
 <p>
