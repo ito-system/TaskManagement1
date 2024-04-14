@@ -11,15 +11,21 @@
         <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
     </p>
 </el-row>
-<p style="display: inline">
-    <!-- バックエンド -->
-    <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
-    <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
-</p>
-<p style="display: inline">
-    <!-- DB -->
-    <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
-</p>
+<el-row>
+    <p style="display: inline">
+        <p>【バックエンド】</p>
+        <!-- バックエンド -->
+        <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
+        <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
+    </p>
+</el-row>
+<el-row>
+    <p>【DB】</p>
+    <p style="display: inline">
+        <!-- DB -->
+        <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
+    </p>
+</el-row>
 <p style="display: inline">
     <!-- インフラ -->
     <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
