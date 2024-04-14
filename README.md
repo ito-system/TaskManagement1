@@ -1,6 +1,7 @@
 # TaskManagement1
 
 ## List of technologies used.
+<p>使用している技術一覧</p>
 <el-row>
     <p style="display: inline">
         <!-- フロントエンド -->
@@ -31,3 +32,6 @@
     ◼️プルリクエストのテンプレート化<br>
     ・<a href="https://note.com/cograph_data/n/n6dfed8a37bc1" target="_blank">プルリクエストのテンプレート化</a>
 </p>
+
+## Environment.
+<p>環境構築の手順</p>
