@@ -28,7 +28,7 @@
     ・<a href="https://qiita.com/shun198/items/c983c713452c041ef787" target="_blank">使用技術一覧のデザインテンプレート</a>
 </p>
 <p>
-    ◼️プルリクエストのテンプレート化<br>
+    ◼️プルリクエスト<br>
     ・<a href="https://note.com/cograph_data/n/n6dfed8a37bc1" target="_blank">プルリクエストのテンプレート化</a>
 </p>
 
