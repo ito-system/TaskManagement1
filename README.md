@@ -43,4 +43,4 @@
 
 ## Advance preparation.
 <p>◼️READMEの記載 https://qiita.com/shun198/items/c983c713452c041ef787</p>
-<p>◼️ プルリクエストのテンプレート化 https://note.com/cograph_data/n/n6dfed8a37bc1</p>
+<p>◼️プルリクエストのテンプレート化 https://note.com/cograph_data/n/n6dfed8a37bc1</p>
