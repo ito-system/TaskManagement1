@@ -35,6 +35,6 @@
 ## Environment.
 <p>環境構築の手順</p>
 <p>
-    ◼️リポジトリをclone
+    ◼️リポジトリをclone<br>
     ・<a href="https://qiita.com/nt-7/items/c5ea999a2638e03ee418" target="_blank">リポジトリをclone</a>
 </p>
