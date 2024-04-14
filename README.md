@@ -38,3 +38,18 @@
     ◼️リポジトリ<br>
     ・<a href="https://qiita.com/nt-7/items/c5ea999a2638e03ee418" target="_blank">リポジトリをclone</a>
 </p>
+<p>
+    ◼️Laravel<br>
+</p>
+<p>
+    ◼️Docker<br>
+</p>
+<p>
+    ◼️PHPUnit<br>
+</p>
+<p>
+    ◼️Vue.js<br>
+</p>
+<p>
+    ◼️Postgresql<br>
+</p>
