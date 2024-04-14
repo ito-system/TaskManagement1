@@ -20,6 +20,10 @@
     </p>
 </el-row>
 <el-row>
+    <p>【テスト環境】</p>
+    <p>PHPUnit</p>
+</el-row>
+<el-row>
     <p>【DB】</p>
     <p style="display: inline">
         <!-- DB -->
