@@ -48,9 +48,9 @@
 ## Advance preparation.
 <p>
     ◼️READMEの記載<br>
-    ・<a href="https://qiita.com/shun198/items/c983c713452c041ef787">使用技術一覧のデザインテンプレート</a>
+    ・<a href="https://qiita.com/shun198/items/c983c713452c041ef787" target="_blank">使用技術一覧のデザインテンプレート</a>
 </p>
 <p>
     ◼️プルリクエストのテンプレート化<br>
-    ・<a href="https://note.com/cograph_data/n/n6dfed8a37bc1">プルリクエストのテンプレート化</a>
+    ・<a href="https://note.com/cograph_data/n/n6dfed8a37bc1" target="_blank">プルリクエストのテンプレート化</a>
 </p>
